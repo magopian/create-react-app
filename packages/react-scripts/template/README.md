@@ -1,7 +1,8 @@
 # Mozilla web console app
 
-This app has been created using [moz-console-react-scripts]() (a fork of the
-original
+This app has been created using
+[moz-console-react-scripts](https://github.com/magopian/create-react-app/tree/moz-console-react-scripts)
+(a fork of the original
 [react-scripts](https://github.com/facebookincubator/create-react-app/tree/master/packages/react-scripts)
 that come with `create-react-app`).
 
